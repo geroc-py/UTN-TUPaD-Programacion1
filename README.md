@@ -1,4 +1,3 @@
-
 # Ejercicio 1 - Caja del Kiosco
 
 nombre = input("Ingrese su nombre: ")
