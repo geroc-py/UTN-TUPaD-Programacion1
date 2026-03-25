@@ -364,3 +364,4 @@ if vida_gladiador>0:
     print(f"VICTORIA, {nombre_gladiador} ha ganado la batalla")
 else:
     print("DERROTA, fuiste superado por el enemigo.")
+
