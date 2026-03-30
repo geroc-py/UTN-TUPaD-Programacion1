@@ -2,7 +2,7 @@
 
 💻 Programación 1
 Tecnicatura Universitaria en Programación
-📍 Universidad Tecnológica Nacional
+\n📍 Universidad Tecnológica Nacional
 
 ✨ Estudiante
 Nombre: Cardoso, Gerónimo José
