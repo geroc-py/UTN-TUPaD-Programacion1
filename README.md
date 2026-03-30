@@ -7,4 +7,5 @@ Tecnicatura Universitaria en Programación
 
 ✨ Estudiante
 Nombre: Cardoso, Gerónimo José
+
 Comisión: M2026-13
